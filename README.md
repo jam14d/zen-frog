@@ -10,3 +10,7 @@ pinned: false
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+
+# push to git and hugging face
+git push origin main && git push hf main
